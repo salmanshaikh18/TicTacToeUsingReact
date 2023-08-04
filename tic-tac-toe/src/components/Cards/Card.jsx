@@ -1,4 +1,5 @@
 import Icon from '../Icons/Icon'
+import './Card.css'
 
 function Card({ player }) {
     let icon = <Icon />
